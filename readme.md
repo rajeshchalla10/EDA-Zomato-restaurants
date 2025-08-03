@@ -14,4 +14,14 @@ This dataset provides a comprehensive view of the restaurant scene in the 13 met
 - The Data includes both categorical and numeric values, providing a diverse range of information
 - It enables the exploration of dining patterns, the comparison of restaurants and cuisines between cities, and the identification of trends in the food industry.
 
------ STILL UPDATING -----
+## Purpose of the project
+
+- The objective is to provide actionable insights that will empower restaurant owners, Zomato platform, and other stakeholders to enhance business strategies, improve customer satisfaction, and capitalize on emerging market opportunities.
+- We use the Zomato Restaurants Dataset to analyze customer's behavior, restaurant's performance, and market trends to get actionable insights.
+
+## Libraries/tools used:
+- Pandas
+- NumPy
+- Matplotlib.Pyplot
+- Seaborn
+
