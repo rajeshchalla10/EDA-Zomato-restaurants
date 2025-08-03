@@ -5,7 +5,7 @@
 
 ## Introduction to Zomato Restaurants Data
 
-This project presents a Youtube Learning Assistant built using Python, Flask, Langchain, and RAG (Retrieval-Augmented Generation) based of Large Language Model (LLM). This application allows users to ask questions and get information from any YouTube video link by leveraging the video transcript and RAG system. 
+This dataset provides a comprehensive view of the restaurant scene in the 13 metropolitan areas of India( 900 restaurants). Researchers, analysts, and food enthusiasts can use this dataset to gain insights into various aspects such as dining and delivery ratings, customer reviews and preferences, popular cuisines, best-selling items, and pricing information across different cities. 
 
 ## About the data
 
