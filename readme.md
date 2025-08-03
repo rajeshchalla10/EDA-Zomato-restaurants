@@ -25,3 +25,6 @@ This dataset provides a comprehensive view of the restaurant scene in the 13 met
 - Matplotlib.Pyplot
 - Seaborn
 
+## Contributing
+
+Contributions are welcome! If you have suggestions or improvements, feel free to fork the repository, make your changes, and submit a pull request.
